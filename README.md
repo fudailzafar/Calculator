@@ -26,8 +26,3 @@ A simple and responsive web-based calculator. This application allows users to p
    - Arithmetic operators: `+`, `-`, `*`, `/` for operations.
    - **=**: Shows the calculated result.
 3. The display will update with the result of the operation instantly.
-
-## Technologies Used
-
-- **HTML5** for structuring the calculator layout and embedding JavaScript functionality.
-- **CSS3** for styling and responsiveness.
